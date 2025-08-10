@@ -1,3 +1,6 @@
 Cédula: 6624465
 Nombre: Elena Gisselle
 Apellido: Ramírez Medina
+Cédula: 5263188
+Nombre: Andrea Luján
+Apellido: Núñez Rodríguez
